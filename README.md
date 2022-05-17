@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Amir yazdani
+- 👀 I’m interested in C# wordpress
+- 🌱 I’m currently learning php C#
